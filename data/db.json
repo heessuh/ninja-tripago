@@ -1,0 +1,28 @@
+{
+  "trips": [
+    {
+      "title": "2 night stay in Venice",
+      "price": "568 USD",
+      "id": "1",
+      "loc": "italy"
+    },
+    {
+      "title": "3 night stay in Lourdes",
+      "price": "888 USD",
+      "id": "2",
+      "loc": "france"
+    },
+    {
+      "title": "2 night stay in Fatima",
+      "price": "4356 USD",
+      "id": "3",
+      "loc": "portugal"
+    },
+    {
+      "title": "3 night stay in Assisi",
+      "price": "789 USD",
+      "id": "4",
+      "loc": "italy"
+    }
+  ]
+}
